@@ -25,12 +25,12 @@
     </repositories>
     <distributionManagement>
         <repository>
-            <id>ashcon-releases</id>
-            <url>https://repo.ashcon.app/nexus/content/repositories/releases</url>
+            <id>pgm-repo-releases</id>
+            <url>https://repo.pgm.fyi/releases</url>
         </repository>
         <snapshotRepository>
-            <id>ashcon-snapshots</id>
-            <url>https://repo.ashcon.app/nexus/content/repositories/snapshots</url>
+            <id>pgm-repo-snapshots</id>
+            <url>https://repo.pgm.fyi/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
     <modules>

@@ -4,12 +4,12 @@
                       https://maven.apache.org/xsd/settings-1.0.0.xsd">
     <servers>
         <server>
-            <id>ashcon-releases</id>
+            <id>pgm-repo-releases</id>
             <username>${env.REPO_USERNAME}</username>
             <password>${env.REPO_PASSWORD}</password>
         </server>
         <server>
-            <id>ashcon-snapshots</id>
+            <id>pgm-repo-snapshots</id>
             <username>${env.REPO_USERNAME}</username>
             <password>${env.REPO_PASSWORD}</password>
         </server>
